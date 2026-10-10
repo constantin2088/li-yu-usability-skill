@@ -1,0 +1,19 @@
+{
+  "intents": [
+    "常用物品可达"
+  ],
+  "elements": [
+    {
+      "id": "e1",
+      "intent": "常用物品可达",
+      "observation": "常用工具位于可达位置",
+      "reason": "减少反复取放负担"
+    }
+  ],
+  "required_info": [
+    {
+      "id": "日期",
+      "visible": true
+    }
+  ]
+}
